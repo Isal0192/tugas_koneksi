@@ -3,12 +3,12 @@
 repositori tugas basis data pada pertemuan12
 ------------------------------------------------------------
 database terditi dari 6 tabel:
-> data pelanggan
-> data pegawai
-> data layanan
-> pesanan
-> keanggotaan
-> detail pesanan
+.data pelanggan
+. data pegawai
+. data layanan
+. pesanan
+. keanggotaan
+. detail pesanan
 
 
 # lampiran 
